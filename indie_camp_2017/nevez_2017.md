@@ -76,6 +76,7 @@ Limitée à 20 places max par jour
   * Emmanuel Laurent, La MYNE / DAISEE / Energie. Du 1 au 10 juillet. 
   * Chloé Mayere, La MYNE / Astrolabe Expé. Du premier au 8 juillet. Covoit' possible de Lyon.
   * Théo Vital (Biomer) et Marine, du Vendredi 7 soir au Dimanche 9. **Covoit' possible de Rennes.**
+  * Alizée Gerard (Design de la transition / DAISEE). Du 3/4 au 7/8 juillet (à préciser). - Covoit' possible de Brest-
 * Lieu et horaire de RDV pour le 1/07
   * Adresse du lieu du camp : 8 chemin de kervic , 22610 Nevez. Coordonnées  46.22475 , 2.0517
   * Horaires: dès 9h30 et toute la journée et soirée
